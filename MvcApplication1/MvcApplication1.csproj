@@ -73,6 +73,7 @@
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ruben\Jaime.cs" />
     <Compile Include="Ruben\NewClass.cs" />
     <Compile Include="Ruben\Segunda.cs" />
     <Compile Include="Views\Home\Nuevo.aspx.cs">
