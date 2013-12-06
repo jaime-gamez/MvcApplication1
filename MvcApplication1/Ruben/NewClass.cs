@@ -9,7 +9,7 @@ namespace MvcApplication1.Views.Class
    public class NewClass
    {
 
-
+       // Programación de la nueva clase... A ver que tal nos va.
 
    }
 }
